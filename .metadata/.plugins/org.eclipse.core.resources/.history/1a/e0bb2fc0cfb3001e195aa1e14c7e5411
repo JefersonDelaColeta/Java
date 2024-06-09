@@ -1,0 +1,15 @@
+package course;
+
+public class Funcao {
+
+	public static void main(String[] args) {
+	
+		
+		double y = 256555.0;
+		double x = Math.sqrt(y);
+		
+		System.out.println(x);
+
+	}
+
+}
